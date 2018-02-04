@@ -1,6 +1,6 @@
 # assignment_01
-##ARTTECH 4135-001
-##Virtual Reality
+## ARTTECH 4135-001
+## Virtual Reality
 
 In this assignment you will start with the github classroom link, create your own assignment repository, clone it to your computer, make modifications to the unity project, commit the changes, and push back the updated repository to github.
 

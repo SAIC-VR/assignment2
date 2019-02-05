@@ -23,15 +23,14 @@ In this assignment you will start with the github classroom link, create your ow
 - Committing changes to Unity project and pushing to remote github repository.
 
 ## Directions
-1. Accept github classroom assignment via link provided in slack.
+1. Accept the GitHub classroom assignment via link provided in slack.
 
 2. On a local resource clone the newly created repository.
 
-3. Modify Unity project.
-Add shapes to the scene, to fill the matching shape and orientations.
-	- Add a cube to the scene (e.g 4.5 units scale), a rotation of 45 on Y axis
-	- Add a sphere (radius 10) to the scene, and place it in the sphere shape area
-	- Add a cylinder to the scene, and find out the right dimensions and orientation to match the cylinder area in Unity
+3. Modify the Unity project by adding shapes to the scene, to fill the matching shape and orientations.
+	1. Add a cube to the scene (e.g 4.5 units scale), a rotation of 45 on Y axis
+	2. Add a sphere (radius 10) to the scene, and place it in the sphere shape area
+	3. Add a cylinder to the scene, and find out the right dimensions and orientation to match the cylinder area in Unity
 4. Commit changes to repository, remember to add a useful commit message.
 5. Push committed changes to github, I will look for commit messages in the repository.
 6. Change the color of the sphere to red.
@@ -39,3 +38,9 @@ Add shapes to the scene, to fill the matching shape and orientations.
 8. Make the cylinder a green semitransparent color.
 9. Commit changes to repository, remember to add a useful commit message. 	
 10. Push committed changes to github.
+
+---
+
+## Example image of a finished project
+
+![fit](assignment_01-finished.png)

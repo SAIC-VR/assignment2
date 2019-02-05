@@ -7,7 +7,7 @@ In this assignment you will start with the github classroom link, create your ow
 ## Required software:
 
 - [Unity 3d](https://unity3d.com/get-unity/download)
-- [GitHub Desktop] (https://desktop.github.com)
+- [GitHub Desktop](https://desktop.github.com)
 
 ## Potential Resources:
 

@@ -4,6 +4,11 @@
 
 In this assignment you will start with the github classroom link, create your own assignment repository, clone it to your computer, make modifications to the unity project, commit the changes, and push back the updated repository to github.
 
+## Required software:
+
+- [Unity 3d](https://unity3d.com/get-unity/download)
+- [GitHub Desktop] (https://desktop.github.com)
+
 ## Potential Resources:
 
 - YouTube Videos on Unity and GitHub

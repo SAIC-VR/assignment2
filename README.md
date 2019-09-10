@@ -26,7 +26,10 @@ In this assignment you will start with the github classroom link, create your ow
 	- Creation of materials.
 	- Addition of folders and assets (texturemaps)
 - Committing changes to Unity project and pushing to remote github repository.
+---
+![fit](assignment2-pre.png)
 
+---
 ## Directions
 1. Accept the GitHub classroom assignment via link provided in slack.
 

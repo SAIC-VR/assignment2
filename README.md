@@ -26,17 +26,16 @@ In this assignment you will start with the github classroom link, create your ow
 	- Creation of materials.
 	- Addition of folders and assets (texturemaps)
 - Committing changes to Unity project and pushing to remote github repository.
----
-![](images/assignment2-pre)
+
 ## Directions
 1. Accept the GitHub classroom assignment via link provided in slack.
 
 2. On a local resource clone the newly created repository.
-3. Open the scene in Assets/Scenes/**assignment2**
-3.1 Modify the scene by adding the objects to fill the matching shape and orientations.
-	1. Add a **cube** to the scene (e.g 4.5 units scale), a rotation of 45 on Y axis
-	2. Add a **sphere** (radius 10) to the scene, and place it in the sphere shape area
-	3. Add a **cylinder** to the scene, and find out the right dimensions and orientation to match the cylinder area in Unity
+
+3. Modify the Unity project by adding shapes to the scene, to fill the matching shape and orientations.
+	1. Add a cube to the scene (e.g 4.5 units scale), a rotation of 45 on Y axis
+	2. Add a sphere (radius 10) to the scene, and place it in the sphere shape area
+	3. Add a cylinder to the scene, and find out the right dimensions and orientation to match the cylinder area in Unity
 4. Commit changes to repository, remember to add a useful commit message.
 5. Push committed changes to github, I will look for commit messages in the repository.
 6. Change the color of the sphere to red.
@@ -46,7 +45,7 @@ In this assignment you will start with the github classroom link, create your ow
 10. Push committed changes to github.
 
 ---
-11. Inside of the **Assets/** folder create a folder called **Images**
+11. Create a folder called Images
 12. Take a screenshot of your scene (like the example below)
 12. Name the image assignment_01-finished.png
 13. Add the image into the the Images directory
@@ -54,4 +53,5 @@ In this assignment you will start with the github classroom link, create your ow
 15. Push committed changes to github.
 
 ## Example image of a finished project
+
 ![fit](assignment_01-finished.png)

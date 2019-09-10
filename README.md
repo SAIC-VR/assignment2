@@ -24,7 +24,7 @@ In this assignment you will start with the github classroom link, create your ow
 - Modification of Unity project.
 	- Addition of 3D shapes.
 	- Creation of materials.
-	- Addition of assets (texturemap).
+	- Addition of folders and assets (texturemaps)
 - Committing changes to Unity project and pushing to remote github repository.
 
 ## Directions
@@ -45,6 +45,12 @@ In this assignment you will start with the github classroom link, create your ow
 10. Push committed changes to github.
 
 ---
+11. Create a folder called Images
+12. Take a screenshot of your scene (like the example below)
+12. Name the image assignment_01-finished.png
+13. Add the image into the the Images directory
+14. Commit changes to repository, add a commit message: "screenshot added". 	
+15. Push committed changes to github.
 
 ## Example image of a finished project
 
